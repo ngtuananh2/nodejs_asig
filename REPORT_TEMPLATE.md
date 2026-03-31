@@ -25,7 +25,7 @@
 
 ## 3. Thiet ke 3 lop
 
-- Routes: khai bao endpoint
+- Routes: khai bao endpoint  
 - Controllers: nhan request, tra response
 - Services: xu ly nghiep vu (auth, owner/admin, pagination, search)
 - Repositories/Models: truy van MongoDB
